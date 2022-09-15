@@ -4,8 +4,8 @@ let me = new Person('Simon');
 me.sayHiToStranger();
 
 while(me.isAlive()) {
-  me.loveCoding()
-  me.code()
+  me.loveCoding();
+  me.code();
 }
 ```
 

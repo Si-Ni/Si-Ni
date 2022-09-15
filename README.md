@@ -3,7 +3,7 @@
 let me = new Person('Simon');
 me.sayHiToStranger();
 
-while(me.isAlive()) {
+while (me.isAlive()) {
   me.loveCoding();
   me.code();
 }

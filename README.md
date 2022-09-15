@@ -5,7 +5,7 @@ me.sayHiToStranger();
 
 while (me.isAlive()) {
   me.loveCoding();
-  me.code();
+  me.writeCleanCode();
 }
 ```
 

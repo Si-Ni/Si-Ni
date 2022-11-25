@@ -1,11 +1,11 @@
 ```js
 
-let i = new Person('Simon');
-i.sayHiToStranger();
+let me = new Person('Simon');
+me.sayHiToStranger();
 
-while (i.isAlive()) {
-  i.loveCoding();
-  i.writeCleanCode();
+while (me.isAlive()) {
+  me.loveCoding();
+  me.writeCleanCode();
 }
 ```
 

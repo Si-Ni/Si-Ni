@@ -8,6 +8,5 @@ while (me.isAlive()) {
   me.writeCleanCode();
 }
 
-// 'I' wäre natürlich grammatikalisch sinnvoller, sieht bloß nicht schön aus
 ```
 

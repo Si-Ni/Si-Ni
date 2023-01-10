@@ -12,4 +12,4 @@ while (me.isAlive) {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Si-Ni&theme=onedark)](https://github.com/Si-Ni/github-profile-trophy)
 
-[https://github.r2v.ch/codewars?user=Si_Ni&stroke=COLOR]
+[![Codewars](https://github.r2v.ch/codewars?user=Si_Ni&stroke=COLOR)]

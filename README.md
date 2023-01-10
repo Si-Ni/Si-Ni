@@ -10,3 +10,4 @@ while (me.isAlive()) {
 
 ```
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Si-Ni&theme=onedark)](https://github.com/Si-Ni/github-profile-trophy)

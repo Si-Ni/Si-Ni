@@ -9,8 +9,14 @@ while (me.isAlive) {
 }
 
 ```
+---
+
 [![Codewars](https://github.r2v.ch/codewars?user=Si_Ni&stroke=%23b362ff&hide_clan=true&top_languages=true&theme=purple_dark)](https://www.codewars.com/users/Si_Ni)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Si-Ni&theme=onedark&rows=2&column=4)](https://github.com/Si-Ni/github-profile-trophy)
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-Ni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Si-Ni&theme=onedark&row=1)](https://github.com/Si-Ni/github-profile-trophy)

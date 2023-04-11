@@ -1,4 +1,4 @@
-I have made some changes to my profile. Several old projects were either deleted or set to private. This was due to my current understanding of coding standards, which led me to conclude that the code quality of those projects was unsatisfactory. There are still some old projects with bad code quality. But I decided to keep them because I find their topics too interesting to delete. However, I recommend focusing on the newer or recommended projects instead.
+I have made some changes to my profile. Several old projects were either deleted or set to private. This was due to my current understanding of coding standards, which led me to conclude that the code quality of those projects was unsatisfactory. There are still some old projects with bad code quality. But I decided to keep them because I find their topics too interesting to delete. However, I recommend focusing on the newer or pinned projects instead.
 
 ---
 ```js

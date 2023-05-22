@@ -22,3 +22,7 @@ while (me.isAlive) {
 ---
 
 [![Codewars](https://github.r2v.ch/codewars?user=Si_Ni&stroke=%23b362ff&hide_clan=true&top_languages=true&theme=purple_dark)](https://www.codewars.com/users/Si_Ni)
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/si-ni?theme=dark&font=Baloo%202)

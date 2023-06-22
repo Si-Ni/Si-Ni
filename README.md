@@ -25,4 +25,5 @@ while (me.isAlive) {
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/si-ni?theme=dark&font=Baloo%202)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/si-ni?theme=dark&font=Baloo%202)](https://leetcode.com/Si-Ni/)
+
